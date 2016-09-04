@@ -6,7 +6,7 @@ config = {
     css: {
       render: {
         css: {
-          template: './gulp/templates/sprite.css'
+          template: './gulp/templates/sprite.csste'
         }
       }
     }

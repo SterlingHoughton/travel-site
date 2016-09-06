@@ -45,8 +45,9 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var $ = __webpack_require__(1);
-
 	var Person = __webpack_require__(2);
+
+	alert("new test");
 
 	var john = new Person("John Doe", "purple");
 	john.greet();
